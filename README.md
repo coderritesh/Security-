@@ -36,17 +36,24 @@ Interview Preparation
 
 ## 📚 Roadmap
 
+## 📚 SOC Analyst Roadmap
+
 | Day | Topic | Status |
 |---|---|---|
-| 01 | SOC Fundamentals | 🔄 In Progress |
-| 02 | Windows Event Logs | ⏳ |
+| 01 | SOC Fundamentals | ✅ Completed |
+| 02 | Windows Event Logs & Authentication | 🔄 Next |
 | 03 | Networking for SOC | ⏳ |
 | 04 | Linux for SOC | ⏳ |
-| 05 | Snort | ⏳ |
-| 06 | Suricata | ⏳ |
-| 07 | Splunk | ⏳ |
-| 08 | OSINT / Threat Intelligence | ⏳ |
-| 09 | EDR | ⏳ |
+| 05 | Network Traffic Analysis & Wireshark | ⏳ |
+| 06 | Snort IDS/IPS | ⏳ |
+| 07 | Suricata IDS/IPS | ⏳ |
+| 08 | SIEM Fundamentals | ⏳ |
+| 09 | Splunk Hands-on | ⏳ |
+| 10 | OSINT & Threat Intelligence | ⏳ |
+| 11 | EDR & Endpoint Security | ⏳ |
+| 12 | Incident Investigation | ⏳ |
+| 13 | Detection & Alert Analysis | ⏳ |
+| 14 | SOC Investigation Case Study | ⏳ |
 
 ## 🔧 Tools
 
