@@ -59,6 +59,35 @@ Screenshots from the practical investigation will be added here.
 
 Interview questions will be added as part of the Day 1 documentation.
 
-## ✅ Status
+## Results
 
-🟡 In Progress
+Completed a controlled Windows authentication investigation using
+Windows Event Viewer.
+
+Observed:
+
+- Event ID 4625 — Failed Logon
+- Event ID 4624 — Successful Logon
+- Multiple failed logons followed by a successful logon
+- Built an authentication timeline
+- Investigated the events from a SOC Analyst perspective
+
+## Evidence
+
+Practical screenshots and investigation details are available in:
+
+- `Practical/Screenshots/`
+- `Practical/investigation.md`
+
+## Key Learning
+
+Repeated failed logons followed by a successful logon can be a
+potential indicator of password guessing or brute-force activity,
+but the pattern alone does not confirm an attack.
+
+Additional correlation is required, including account, source,
+timing, logon type, and activity after successful authentication.
+
+## Status
+
+✅ Completed
