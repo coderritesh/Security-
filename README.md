@@ -41,19 +41,20 @@ Interview Preparation
 | Day | Topic | Status |
 |---|---|---|
 | 01 | SOC Fundamentals | ✅ Completed |
-| 02 | Windows Event Logs & Authentication | 🔄 Next |
-| 03 | Networking for SOC | ⏳ |
-| 04 | Linux for SOC | ⏳ |
-| 05 | Network Traffic Analysis & Wireshark | ⏳ |
-| 06 | Snort IDS/IPS | ⏳ |
-| 07 | Suricata IDS/IPS | ⏳ |
-| 08 | SIEM Fundamentals | ⏳ |
-| 09 | Splunk Hands-on | ⏳ |
-| 10 | OSINT & Threat Intelligence | ⏳ |
-| 11 | EDR & Endpoint Security | ⏳ |
-| 12 | Incident Investigation | ⏳ |
-| 13 | Detection & Alert Analysis | ⏳ |
-| 14 | SOC Investigation Case Study | ⏳ |
+| 02 | Windows Event Logs & Authentication | ✅ Completed |
+| 03 | Windows Authentication Attack Detection | ✅ Completed |
+| 04 | Networking for SOC | ⏳ Next |
+| 05 | Linux for SOC | ⏳ Upcoming |
+| 06 | Network Traffic Analysis & Wireshark | ⏳ Upcoming |
+| 07 | Snort IDS/IPS | ⏳ Upcoming |
+| 08 | Suricata IDS/IPS | ⏳ Upcoming |
+| 09 | SIEM Fundamentals | ⏳ Upcoming |
+| 10 | Splunk Hands-on | ⏳ Upcoming |
+| 11 | OSINT & Threat Intelligence | ⏳ Upcoming |
+| 12 | EDR & Endpoint Security | ⏳ Upcoming |
+| 13 | Incident Investigation | ⏳ Upcoming |
+| 14 | Detection & Alert Analysis | ⏳ Upcoming |
+| 15 | SOC Investigation Case Study | ⏳ Upcoming |
 
 ## 🔧 Tools
 
