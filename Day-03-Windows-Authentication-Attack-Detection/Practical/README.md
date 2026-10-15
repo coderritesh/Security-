@@ -75,7 +75,7 @@ Add your own screenshots to the `Screenshots` directory:
 - [ ] `event-4625-details.png` — account, logon type, status, and substatus.
 - [ ] `event-4624-successful-logon.png` — successful logon event.
 
-Only mark an item complete after the screenshot has been uploaded.
+
 
 ## 7. Key Learning
 
