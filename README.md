@@ -43,7 +43,7 @@ Interview Preparation
 | 01 | SOC Fundamentals | ✅ Completed |
 | 02 | Windows Event Logs & Authentication | ✅ Completed |
 | 03 | Windows Authentication Attack Detection | ✅ Completed |
-| 04 | Networking for SOC | ⏳ Next |
+| 04 | Networking for SOC | ✅ Completed |
 | 05 | Linux for SOC | ⏳ Upcoming |
 | 06 | Network Traffic Analysis & Wireshark | ⏳ Upcoming |
 | 07 | Snort IDS/IPS | ⏳ Upcoming |
